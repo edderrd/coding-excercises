@@ -53,20 +53,14 @@ tsc <exercise-folder>/solution.ts --outDir dist
 node dist/solution.js
 ```
 
-## Adding a New Exercise
+# Algorithm & Data Structure Practice
 
-1. Create a new folder at the repository root named after the exercise (use kebab-case, e.g. `two-sum/`).
-2. Add a `README.md` with:
-   - A short title
-   - The problem description
-   - Input/output format
-   - Constraints
-   - One or more examples
-3. Add your solutions as `solution.py` and/or `solution.ts` (or split into multiple files if the exercise warrants it).
-4. Update the exercise list below.
+Solutions and notes for algorithm and data-structure problems from
+platforms such as LeetCode.
 
-## Exercises
+All solutions and explanations in this repository are my own work.
 
-| Exercise | Python | TypeScript |
-| --- | :---: | :---: |
-| _(No exercises yet)_ | | |
+Problem statements are summarized rather than reproduced. Original
+problems are linked to their respective platforms.
+
+This repository is for educational and interview-preparation purposes.
