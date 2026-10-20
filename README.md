@@ -15,7 +15,7 @@ coding-excercises/
 
 Every exercise lives in a dedicated top-level folder that contains:
 
-- **`README.md`** (required) — a description of the exercise, including the problem statement, input/output format, constraints, examples, and (where applicable) edge cases to consider.
+- **`README.md`** (required) — a problem summary, link to original resource if any, approach and solutions.
 - **Python files** (`*.py`) — a Python implementation of the exercise, if available.
 - **TypeScript files** (`*.ts`) — a TypeScript implementation of the exercise, if available.
 

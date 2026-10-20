@@ -1,8 +1,8 @@
 # Valid Anagram
 
-**Platform:** LeetCode
-**Difficulty:** Easy
-**Problem:** [Original Problem](https://leetcode.com/problems/valid-anagram/description/)
+- **Platform:** LeetCode
+- **Difficulty:** Easy
+- **Problem:** [Original Problem](https://leetcode.com/problems/valid-anagram/description/)
 
 ## Problem Summary
 
