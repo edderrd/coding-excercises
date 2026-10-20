@@ -14,7 +14,7 @@ You're given a array of `prices` where index of the array corresponds to the day
 2. iterate over `prices` array using `right` as index
 3. validate if `left` pointer value is less than `right` pointer
 4. calculate the `profit` by subtracting `right` pointer value to `left` pointer value
-5. store `maxP` to max between exiting `maxP` and `profit`
+5. store `maxP` to max between existing `maxP` and `profit`
 6. if `left` pointer value is greater than `right` pointer value, move `left` pointer to `right` pointer
 7. each iteration always increment `right` pointer
 8. after iteration finished return `maxP`
